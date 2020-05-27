@@ -15,7 +15,7 @@ Axios. Vuetify
 O style layout do fron-ent, nunca havia trabalhado com vue, então tive que estudar como ele funcionava e sua sintaxe.
 Então a parte de rotas e de layout não saíram como eu esperava, mas está funcional, caso tivesse mais tempo poderia estudar melhor sobre esses tópicos que acredito que deixei a desejar.
 
-Acabei gostando da criação do projeo então desenvolvi todo ele no meu git: https://github.com/ThierrryScotto/front-grupoA
+Acabei gostando da criação do projeo então desenvolvi todo ele no meu git: https://github.com/ThierrryScotto/front-vue
 Lá podes encontrar as informações de todos os commits.
  
 4 - Quais requisitos obrigatórios que não foram entregues
