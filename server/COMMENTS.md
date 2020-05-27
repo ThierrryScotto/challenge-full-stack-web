@@ -20,7 +20,7 @@ O back-end foi a parte mais tranquila de fazer, se estivesse mais tempo teria de
 Atualmente trabalho em uma Startup onde os desenvolvedores não são adeptos a usar testes unitários, meu conhecimentos sobre o assunto é apenas didático, fui estudando sobre e construindo a api, mas acabou ficando demorado, então construir da forma da qual estou habituado, mas com certeza vou melhorar meus conhecimentos em TDD, pelo pouco que usei, notei que ajuda muito a evitar erros futuros.
 
 Acabei gostando da criação do projeo então desenvolvi todo ele no meu git: https://github.com/ThierrryScotto/core
-Lá podes encontrar as informações de todos os commits.
+Lá poderas encontrar as informações de todos os commits.
  
 4 - Quais requisitos obrigatórios que não foram entregues
 Testes unitários.
